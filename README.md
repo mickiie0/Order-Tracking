@@ -38,8 +38,8 @@
 
 1. **โคลนคลังโค้ด (Clone Repository):**
    ```bash
-   git clone https://github.com/your-username/game-topup-order-tracking.git
-   cd game-topup-order-tracking
+   git clone https://github.com/mickiie0/Order-Tracking.git
+   cd Order-Tracking
    ```
 
 2. **ติดตั้ง Dependencies:**
